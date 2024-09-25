@@ -1,7 +1,6 @@
 ![logo](https://github.com/Bhoomingorasiya/Bhoomingorasiya/blob/main/banner%202.png)
 <h1 align="center">Hi 👋, I'm Bhoomin Gorasiya</h1>
 <h3 align="center">A passionate Blockchain developer from Gujarat ✨</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🔭 I’m currently purusing **DCE👨‍💻**
 
