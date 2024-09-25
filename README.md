@@ -1,4 +1,3 @@
-![logo](https://github.com/Bhoomingorasiya/Bhoomingorasiya/blob/main/banner%202.png)
 <h1 align="center">Hi 👋, I'm Bhoomin Gorasiya</h1>
 <h3 align="center">A passionate Blockchain developer from Gujarat ✨</h3>
 
